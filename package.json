@@ -1,4 +1,4 @@
- {
+  {
   "scripts": {
     "start": "npm run download && npm run cloudflare-create",
     "dry": "npm run download && DRY_RUN=1 npm run cloudflare-create:list",
