@@ -2,7 +2,6 @@
   "name": "cloudflare-gateway-pihole-scripts",
   "version": "3.0.0",
   "type": "module",
-  "private": true,
   "description": "Automated Cloudflare Gateway list management with Pi-hole compatible blocklists",
   "keywords": [
     "cloudflare",
