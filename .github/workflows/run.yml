@@ -1,4 +1,4 @@
-Name: Push Lists to Cloudflare
+name: Push Lists to Cloudflare
 
 on:
   schedule:
